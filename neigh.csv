@@ -1,0 +1,30 @@
+neighbourhood,cost,food,hotel,bar,business_services,violent_crimes,property_crime,commute
+Forth Ward,500000,7,8,1,5,20,120,30
+Dilworth,650000,8,7,0,6,15,100,25
+Elizabeth,400000,6,6,1,5,18,110,28
+Draper Ave,300000,5,5,4,4,10,80,20
+Tryon Hills,450000,7,6,3,5,12,90,22
+Myers Park,800000,9,9,1,7,22,130,32
+Ashley Park,550000,6,7,1,5,14,100,26
+Ashbrook,350000,5,5,0,4,9,70,18
+Beverly Woods,700000,8,8,2,6,20,120,30
+Providence Park,500000,7,6,0,5,15,100,25
+Idlewild,320000,5,5,0,4,10,80,20
+Newell,420000,6,6,1,5,12,90,22
+Arlington,600000,7,7,4,6,18,110,28
+Silverwood,480000,6,6,3,5,14,100,26
+Oakdale,300000,5,5,1,4,9,70,18
+Yorkmount,720000,8,7,1,6,20,120,30
+University City South,480000,7,6,4,5,15,100,25
+Carmel,350000,5,5,1,4,10,80,20
+Mint Hill,600000,7,8,1,6,18,110,28
+Second Ward,550000,8,7,2,6,12,90,22
+University City North,750000,7,8,5,6,22,130,32
+West Sugar Creek,320000,5,5,1,4,9,70,18
+Matthews,480000,6,6,2,5,14,100,26
+Ayrsley,350000,5,5,0,4,10,80,20
+Myers Park,800000,9,9,1,7,22,130,32
+Providence Crossing,600000,7,8,1,6,18,110,28
+Steele Creek,320000,5,5,1,4,9,70,18
+First Ward,650000,8,8,2,6,20,120,30
+Third Ward,500000,7,7,1,6,15,100,25
